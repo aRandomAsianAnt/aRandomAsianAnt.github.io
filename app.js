@@ -1,3 +1,3 @@
 function alertButton() {
-    alert("Sup bro");
+    alert("Testing button message")
 }
